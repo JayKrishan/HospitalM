@@ -1,0 +1,12 @@
+C:\Users\Kj Max\Desktop\Hospital Management\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe.config
+C:\Users\Kj Max\Desktop\Hospital Management\HospitalManagement\HospitalManagement\bin\Debug\HospitalDb.mdf
+C:\Users\Kj Max\Desktop\Hospital Management\HospitalManagement\HospitalManagement\bin\Debug\HospitalDb_log.ldf
+C:\Users\Kj Max\Desktop\Hospital Management\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe
+C:\Users\Kj Max\Desktop\Hospital Management\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.pdb
+C:\Users\Kj Max\Desktop\Hospital Management\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csprojResolveAssemblyReference.cache
+C:\Users\Kj Max\Desktop\Hospital Management\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Form1.resources
+C:\Users\Kj Max\Desktop\Hospital Management\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Main_Form.resources
+C:\Users\Kj Max\Desktop\Hospital Management\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Properties.Resources.resources
+C:\Users\Kj Max\Desktop\Hospital Management\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.GenerateResource.Cache
+C:\Users\Kj Max\Desktop\Hospital Management\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.exe
+C:\Users\Kj Max\Desktop\Hospital Management\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.pdb
